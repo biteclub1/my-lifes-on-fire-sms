@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-labelledby="title desc">
+  <title id="title">My Life’s on Fire SMS waitlist poster</title>
+  <desc id="desc">Poster instructing viewers to text FIRE to 702-475-8779 and containing required SMS disclosures.</desc>
+  <rect width="1200" height="1500" fill="#111"/>
+  <path d="M0 1030 C100 900 180 1040 270 850 C355 1030 430 820 515 980 C610 760 690 1020 790 820 C900 1010 1000 800 1200 1010 V1500 H0Z" fill="#24201e"/>
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="600" y="170" font-size="56" font-weight="700" letter-spacing="12">MY LIFE’S</text>
+    <text x="600" y="330" font-size="150" font-weight="900">ON FIRE</text>
+    <text x="600" y="475" font-size="48" font-weight="700" letter-spacing="5">COMEDY SHOW WAITLIST</text>
+    <text x="600" y="660" font-size="52">TEXT</text>
+    <text x="600" y="805" font-size="150" font-weight="900">FIRE</text>
+    <text x="600" y="925" font-size="48">TO</text>
+    <text x="600" y="1045" font-size="82" font-weight="800">(702) 475-8779</text>
+  </g>
+  <g fill="#d8d1c8" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="30">
+    <text x="600" y="1225">Reply with your first and last name to confirm.</text>
+    <text x="600" y="1290">Recurring automated messages. Message frequency varies.</text>
+    <text x="600" y="1340">Message and data rates may apply. Reply STOP to unsubscribe.</text>
+    <text x="600" y="1390">Reply HELP for help. Consent is not a condition of purchase.</text>
+  </g>
+</svg>
